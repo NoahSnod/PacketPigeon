@@ -1,0 +1,16 @@
+"level","parent","Topic / Item","Count","Average","Min Val","Max Val","Rate (ms)","Percent","Burst Rate","Burst Start",
+0,"","Source IPv4 Addresses",24,,,,0.0001,100%,0.0200,18.897
+1,"/Source IPv4 Addresses","192.168.254.22",12,,,,0.0001,50.00%,0.0100,18.897
+1,"/Source IPv4 Addresses","192.168.254.45",3,,,,0.0000,12.50%,0.0100,21.991
+1,"/Source IPv4 Addresses","192.168.254.173",3,,,,0.0000,12.50%,0.0100,21.991
+1,"/Source IPv4 Addresses","192.168.254.200",2,,,,0.0000,8.33%,0.0100,19.296
+1,"/Source IPv4 Addresses","192.168.254.188",2,,,,0.0000,8.33%,0.0100,18.984
+1,"/Source IPv4 Addresses","192.168.254.87",1,,,,0.0000,4.17%,0.0100,100.295
+1,"/Source IPv4 Addresses","192.168.254.254",1,,,,0.0000,4.17%,0.0100,93.388
+0,"","Destination IPv4 Addresses",24,,,,0.0001,100%,0.0200,18.897
+1,"/Destination IPv4 Addresses","239.255.255.250",9,,,,0.0001,37.50%,0.0100,28.265
+1,"/Destination IPv4 Addresses","224.0.0.251",5,,,,0.0000,20.83%,0.0200,18.897
+1,"/Destination IPv4 Addresses","224.0.0.22",3,,,,0.0000,12.50%,0.0100,97.396
+1,"/Destination IPv4 Addresses","192.168.254.45",3,,,,0.0000,12.50%,0.0100,21.991
+1,"/Destination IPv4 Addresses","192.168.254.173",3,,,,0.0000,12.50%,0.0100,21.991
+1,"/Destination IPv4 Addresses","224.0.0.1",1,,,,0.0000,4.17%,0.0100,93.388

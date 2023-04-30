@@ -1,0 +1,10 @@
+"level","parent","Topic / Item","Count","Average","Min Val","Max Val","Rate (ms)","Percent","Burst Rate","Burst Start",
+0,"","Source IPv4 Addresses",77151,,,,7.9135,100%,41.3700,9.250
+1,"/Source IPv4 Addresses","192.168.254.45",77138,,,,7.9122,99.98%,41.3700,9.250
+1,"/Source IPv4 Addresses","142.250.72.138",8,,,,0.0008,0.01%,0.0300,9.659
+1,"/Source IPv4 Addresses","142.250.68.35",5,,,,0.0005,0.01%,0.0500,1.783
+0,"","Destination IPv4 Addresses",77151,,,,7.9135,100%,41.3700,9.250
+1,"/Destination IPv4 Addresses","192.168.254.45",13,,,,0.0013,0.02%,0.0500,1.783
+1,"/Destination IPv4 Addresses","192.168.254.255",77128,,,,7.9112,99.97%,41.3700,9.250
+1,"/Destination IPv4 Addresses","142.250.72.138",7,,,,0.0007,0.01%,0.0300,9.680
+1,"/Destination IPv4 Addresses","142.250.68.35",3,,,,0.0003,0.00%,0.0300,1.775
