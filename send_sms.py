@@ -12,7 +12,6 @@ threatPackets = 4
 numbers_to_message = ["+19513845423"]
 for number in numbers_to_message:
     client.messages.create (
-        # media_url = ["https://www.cs.ucr.edu/~craigs/craig.jpg"],
         from_ = "+18557432796",
         to = number,
         body = "ALERT: Suspicious Network Traffic Detected\n\n" +
